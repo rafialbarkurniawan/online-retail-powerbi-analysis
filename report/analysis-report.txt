@@ -1,0 +1,19 @@
+Analysis Question:
+- Do transaction values ​​show an upward, downward, or fluctuating trend over the data period?
+- Do certain products dominate the total transaction value?
+- Is the transaction volume concentrated in specific countries?
+- Do entries with negative quantities appear for particular products or time periods?
+- Are there any patterns that warrant further investigation by the operations or finance teams?
+
+Analysis limitations:
+- The dataset covers only the 2010–2011 period and therefore does not represent current retail conditions.
+- There is no data on operational costs or the cost of goods sold; consequently, profit cannot be calculated.
+- Negative values ​​should be interpreted with caution and should not automatically be assumed to be returns linked to original sales.
+- Historical data from a single company is insufficient to draw conclusions about patterns across the entire retail industry.
+
+Analysis Results:
+- Trends were generally volatile from December 2010 to May 2011, followed by an upward trend between August and November 2011, before a sharp decline at the end of December 2011.
+- The "Dotcom Postage" and "Regency Cakestand 3 Tier" products were the dominant items, each generating over £200,000 in transactions, followed by three other products that reached up to £100,000 in transactions.
+- The largest share of transactions originated from the United Kingdom—the country from which the data was sourced—totaling £8 million.
+- Negative quantities were cancel transaction marked by invoiceNO begin with letter C, that most notable for products such as "Paper Craft," "Little Birdie," and "Medium Ceramic Top Storage Jar." The largest negative quantity occurred for the "Paper Craft" and "Little Birdie" items, specifically in December 2011.
+- Patterns worth investigating can be explored by using slicers to filter transactions by country and date. By analyzing these patterns through such filters, the operations and finance teams should be able to evaluate transaction trends and performance for each individual country.
