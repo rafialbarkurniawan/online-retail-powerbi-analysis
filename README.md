@@ -12,8 +12,7 @@ School of Engineering, London South Bank University
 
 ## Business Objective
 
-Analyze sales and profitability across products,
-markets, and business segments.
+Analyze Transaction Value by product, country, and YearMonth Trend.
 
 ## Tools Used
 
